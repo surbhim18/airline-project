@@ -1,2 +1,2 @@
 # airline-project
-Linked lists (2015)
+desktop application using data strcutures like linked lists in C++
